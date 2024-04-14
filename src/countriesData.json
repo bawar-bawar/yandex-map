@@ -1,0 +1,289 @@
+[
+  {
+    "country": "Russia",
+    "cities": [
+      {
+        "name": "Moscow",
+        "isOpen": false,
+        "locations": [
+          {
+            "coordinates": [37.648271359985365, 55.741019540832674],
+            "name": "Office Moscow 1",
+            "mobile": "+7(999)111-11-11",
+            "websiteUrl": "www.google.com",
+
+
+
+            "popup": { "position": "top" }
+
+          },
+          {
+            "coordinates": [37.548271359985365, 55.741019540832674],
+            "name": "Office Moscow 2",
+            "mobile": "+7(999)222-22-22",
+            "websiteUrl": "www.moscowoffice2.com",
+
+
+
+            "popup": { "position": "top" }
+
+          }
+        ]
+      },
+      {
+        "name": "Saint Petersburg",
+        "isOpen": false,
+        "locations": [
+          {
+            "coordinates": [30.355825553710932, 59.94012316644339],
+            "name": "Office Saint Petersburg 1",
+            "mobile": "+7(999)333-33-33",
+            "websiteUrl": "www.saintpetersburgoffice1.com",
+
+
+
+            "popup": { "position": "top" }
+
+          },
+          {
+            "coordinates": [30.155825553710932, 59.84012316644339],
+            "name": "Office Saint Petersburg 2",
+            "mobile": "+7(999)444-44-44",
+            "websiteUrl": "www.saintpetersburgoffice2.com",
+
+
+
+            "popup": { "position": "top" }
+
+          }
+        ]
+      },
+      {
+        "name": "Yekaterinburg",
+        "isOpen": false,
+        "locations": [
+          {
+            "coordinates": [60.59768083336312, 56.83730763559244],
+            "name": "Office Yekaterinburg 1",
+            "mobile": "+7(999)555-55-55",
+            "websiteUrl": "www.Yekaterinburgoffice1.com",
+
+
+
+            "popup": { "position": "top" }
+
+          },
+          {
+            "coordinates": [60.59768083336312,56.83730763559244],
+            "name": "Office Yekaterinburg 2",
+            "mobile": "+7(999)666-66-66",
+            "websiteUrl": "www.Yekaterinburgoffice2.com",
+
+
+
+            "popup": { "position": "top" }
+
+          }
+        ]
+      },
+      {
+        "name": "Perm",
+        "isOpen": false,
+        "locations": [
+          {
+            "coordinates": [56.25689082031246,58.00920494715215],
+            "name": "Office Perm 1",
+            "mobile": "+7(999)777-77-77",
+            "websiteUrl": "www.yekaterinburgoffice1.com",
+
+
+
+            "popup": { "position": "top" }
+
+          },
+          {
+            "coordinates": [56.25689082031246, 58.0920494715215],
+            "name": "Office Perm 2",
+            "mobile": "+7(999)888-88-88",
+            "websiteUrl": "www.yekaterinburgoffice2.com",
+
+
+
+            "popup": { "position": "top" }
+
+          }
+        ]
+      },
+      {
+        "name": "Kazan",
+        "isOpen": false,
+        "locations": [
+          {
+            "coordinates": [49.10696647227473, 55.79578992009213],
+            "name": "Office Kazan 1",
+            "mobile": "+7(999)999-99-99",
+            "websiteUrl": "www.kazanoffice1.com",
+
+
+
+            "popup": { "position": "top" }
+
+          },
+          {
+            "coordinates": [49.10696647227473, 55.79578992009213],
+            "name": "Office Kazan 2",
+            "mobile": "+7(999)101-01-01",
+            "websiteUrl": "www.kazanoffice2.com",
+
+
+
+            "popup": { "position": "top" }
+
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "country": "Belarus",
+    "cities": [
+      {
+        "name": "Minsk",
+        "isOpen": false,
+        "locations": [
+          {
+            "coordinates": [27.5615,53.9045],
+            "name": "Office Minsk 1",
+            "mobile": "+375(17)123-45-67",
+            "websiteUrl": "www.minskoffice1.com",
+
+
+
+            "popup": { "position": "top" }
+
+          },
+          {
+            "coordinates": [27.5615, 53.8045],
+            "name": "Office Minsk 2",
+            "mobile": "+375(17)765-43-21",
+            "websiteUrl": "www.minskoffice2.com",
+            "popup": { "position": "top" }
+
+          }
+        ]
+      },
+      {
+        "name": "Gomel",
+        "isOpen": false,
+        "locations": [
+          {
+            "coordinates": [30.984, 52.4456],
+            "name": "Office Gomel 1",
+            "mobile": "+375(23)123-45-67",
+            "websiteUrl": "www.gomeloffice1.com",
+
+
+
+            "popup": { "position": "top" }
+
+          },
+          {
+            "coordinates": [30.984, 52.2456],
+            "name": "Office Gomel 2",
+            "mobile": "+375(23)765-43-21",
+            "websiteUrl": "www.gomeloffice2.com",
+
+
+
+            "popup": { "position": "top" }
+
+          }
+        ]
+      },
+      {
+        "name": "Brest",
+        "isOpen": false,
+        "locations": [
+          {
+            "coordinates": [23.7341, 52.0976],
+            "name": "Office Brest 1",
+            "mobile": "+375(29)123-45-67",
+            "websiteUrl": "www.brestoffice1.com",
+
+
+
+            "popup": { "position": "top" }
+
+          },
+          {
+            "coordinates": [23.7341, 52.0576],
+            "name": "Office Brest 2",
+            "mobile": "+375(29)765-43-21",
+            "websiteUrl": "www.brestoffice2.com",
+
+
+
+            "popup": { "position": "top" }
+
+          }
+        ]
+      },
+      {
+        "name": "Grodno",
+        "isOpen": false,
+        "locations": [
+          {
+            "coordinates": [23.8298, 53.6781],
+            "name": "Office Grodno 1",
+            "mobile": "+375(33)123-45-67",
+            "websiteUrl": "www.grodnooffice1.com",
+
+
+
+            "popup": { "position": "top" }
+
+          },
+          {
+            "coordinates": [23.8298, 53.1781],
+            "name": "Office Grodno 2",
+            "mobile": "+375(33)765-43-21",
+            "websiteUrl": "www.grodnooffice2.com",
+
+
+
+            "popup": { "position": "top" }
+
+          }
+        ]
+      },
+      {
+        "name": "Vitebsk",
+        "isOpen": false,
+        "locations": [
+          {
+            "coordinates": [30.2049, 55.1904],
+            "name": "Office Vitebsk 1",
+            "mobile": "+375(25)123-45-67",
+            "websiteUrl": "www.vitebskoffice1.com",
+
+
+
+            "popup": { "position": "top" }
+
+          },
+          {
+            "coordinates": [30.2049, 55.2104],
+            "name": "Office Vitebsk 2",
+            "mobile": "+375(25)765-43-21",
+            "websiteUrl": "www.vitebskoffice2.com",
+
+
+
+            "popup": { "position": "top" }
+
+          }
+        ]
+      }
+    ]
+  }
+]
